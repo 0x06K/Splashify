@@ -1,4 +1,3 @@
-
 # Custom LightDM, GRUB, and Plymouth Theme Setup
 
 Welcome to the ultimate setup script for customizing your **LightDM**, **GRUB**, and **Plymouth** themes! 🎨🚀
@@ -14,7 +13,7 @@ This script is designed to make your system look sleek and professional by chang
 Start by cloning the repository to your machine:
 
 ```bash
-git clone https://github.com/0kraven/Splashify.git
+git clone https://github.com/TBHIDK57/Splashify.git
 cd Splashify
 ```
 
