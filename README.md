@@ -2,8 +2,22 @@
 
 Welcome to the ultimate setup script for customizing your **LightDM**, **GRUB**, and **Plymouth** themes! 🎨🚀
 
-This script is designed to make your system look sleek and professional by changing your login screen, bootloader, and boot splash screen all at once.
-![screenshot](https://github.com/user-attachments/assets/7455fcd6-3089-4b36-81e5-ddc28a4a5c56)
+This theme is for AOT fans. If Linux is your primary OS then it will look even more crazier(at least for me it was), just give it a try ;)
+<table>
+  <tr>
+    <td><img width="415" alt="grub" src="https://github.com/user-attachments/assets/c6b5f8e2-5c67-4387-924f-1056466cb89d" />
+</td>
+    <td><img width="418" alt="terminal" src="https://github.com/user-attachments/assets/f886b324-3038-4eeb-93a0-dce1318f7a83" />
+</td>
+  </tr>
+  <tr>
+    <td><img width="639" alt="splash" src="https://github.com/user-attachments/assets/2c02ecd8-c1bd-4166-aa42-31c0d45387e3" />
+</td>
+    <td><img width="638" alt="login" src="https://github.com/user-attachments/assets/2ff2800a-7ac2-408f-a893-89f1fd5b3707"/>
+</td>
+  </tr>
+</table>
+
 
 
 ## Getting Started
