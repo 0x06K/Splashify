@@ -4,11 +4,11 @@ desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-font: "Terminus Regular 16"
 terminal-box: "terminal_box_*.png"
-terminal-left: "6%"
-terminal-top: "27%"
-terminal-width: "42%"
-terminal-height: "61%"
-terminal-border: "0"
+terminal-left: "10%"
+terminal-top: "10%"
+terminal-width: "80%"
+terminal-height: "80%"
+terminal-border: "1"
 
 # OVERLAP
 #terminal-left: "6%"
@@ -27,15 +27,15 @@ terminal-border: "0"
 # Boot menu
 + boot_menu {
   left = 7%
-  top = 41%
+  top = 50%
   width = 40%
-  height = 65%
+  height = 70%
   item_font = "Public Sans Bold 21"
-  item_color = "#cccccc"
-  selected_item_color = "#ffffff"
-  icon_width = 75
-  icon_height = 75
-  item_icon_space = 20
+  item_color = "#000000"
+  selected_item_color = "#800000"
+  icon_width = 100
+  icon_height = 100
+  item_icon_space = 30
   item_height = 70
   item_padding = 3
   item_spacing = 13
