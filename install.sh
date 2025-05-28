@@ -174,7 +174,7 @@ echo "GRUB_THEME=\"$THEME_PATH\"" | sudo tee -a "$GRUB_CONFIG"
 echo "Updating GRUB configuration to use the new theme..."
 sudo sed -i "/^GRUB_THEME=/d" "/etc/default/grub.d/kali-themes.cfg" # Remove any existing GRUB_THEME entry
 echo "GRUB_THEME=\"$THEME_PATH\"" | sudo tee -a "/etc/default/grub.d/kali-themes.cfg"
-sudo cp /home/blackrose/Desktop/Splashify/kawaii-grub-theme/anime_girl.png /usr/share/images/desktop-base/desktop-grub.png
+sudo cp kawaii-grub-theme/anime_girl.png /usr/share/images/desktop-base/desktop-grub.png
 
 
 # Update GRUB
