@@ -1,2 +1,2 @@
-# Splashify
-- Under Construction :3
+## Splashify
+Under Construction :3
